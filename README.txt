@@ -34,6 +34,7 @@ Click on setup \ next \ next \ finish.
 1.  Download the setup file (`LiteSwitcher_Setup_v1.0.0_x64.exe` or `x86`) from the [Releases] section.
 2.  Run the installer.
 3.  **Optional:** Select the option **"Install Test Signing Certificate"** during setup to avoid security warnings upon execution.
+4. Need vcredist 2015-2022
 
 ### Manual Installation
 
@@ -68,4 +69,5 @@ The project is developed in C++.
 This project is distributed under the [License] (e.g., MIT/GPL/Apache). Details are available in the `LICENSE.txt` file.
 
 [Releases]: https://github.com/YourUsername/LITE-SWITCHER/releases
+
 [License]: LICENSE.txt
