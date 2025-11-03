@@ -6,8 +6,11 @@
 **A blazing-fast keyboard layout switcher for Windows, designed for users who need to switch languages instantly.**
 
 Lite Switcher is a lightweight, portable, and non-administrative utility built to save time for developers, writers, and anyone who frequently uses multiple keyboard layouts.
+<img width="432" height="93" alt="screen11" src="https://github.com/user-attachments/assets/7001fe4d-8839-40f9-8021-83f974e0b5c1" />
+<img width="233" height="87" alt="screen12" src="https://github.com/user-attachments/assets/d94f624a-553f-46d8-9203-1626edc43f1d" />
+<img width="613" height="569" alt="screen4" src="https://github.com/user-attachments/assets/422bfd58-f0ab-44cf-aa4b-5d09d9c969fb" />
+<img width="236" height="180" alt="screen15" src="https://github.com/user-attachments/assets/7f72a780-ea4a-48af-ba5c-6abb517ae920" />
 
-*(Suggestion: Add a small GIF here showing the app in action!)*
 
 ## What's the Problem?
 
@@ -17,6 +20,8 @@ and breaks your workflow.
 ## How Lite Switcher Solves It
 
 Lite Switcher introduces a simple, semi-automatic method: **double-tap a hotkey** to instantly activate the layout you need. No more cycling, no more guessing.
+
+<img width="853" height="1003" alt="LiteSwitcherPromo01" src="https://github.com/user-attachments/assets/8cdaaf5d-776e-4a38-803e-9f0f2a6dd5c3" />
 
 For example, by default:
 *   Double-tap **Q** to activate your first layout (e.g., English).
