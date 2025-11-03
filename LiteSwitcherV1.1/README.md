@@ -93,9 +93,17 @@ If you find this utility useful, please consider supporting its development!
 *   **Author:** Freeman4848
 *   **Donate via Ko-fi:** https://ko-fi.com/freeman4848
 
+*   ### 📧 Contact
+
+For questions, suggestions, or feedback, please reach out here: [freeman4848.dev@gmail.com](mailto:freeman4848.dev@gmail.com)
+
 ## 📄 License
 
 This project is distributed under the MIT License. See the `LICENSE.txt` file for details.
+
+
+
+
 
 
 
