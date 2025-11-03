@@ -1,7 +1,7 @@
 
 ---
 
-# Lite Switcher
+# Lite Switcher V1.1.0 all windows
 
 <img width="853" height="1003" alt="LiteSwitcherPromo01" src="https://github.com/user-attachments/assets/8cdaaf5d-776e-4a38-803e-9f0f2a6dd5c3" />
 
