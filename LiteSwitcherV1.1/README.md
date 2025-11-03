@@ -35,7 +35,9 @@ It's that simple.
 
 <img width="613" height="569" alt="screen4" src="https://github.com/user-attachments/assets/422bfd58-f0ab-44cf-aa4b-5d09d9c969fb" />
 
-<img width="236" height="180" alt="screen15" src="https://github.com/user-attachments/assets/7f72a780-ea4a-48af-ba5c-6abb517ae920" />
+<img width="236" height="182" alt="screen16" src="https://github.com/user-attachments/assets/e73083f7-51fb-47e4-a99a-7f31c6b22056" />
+
+
 
 ##  Key Features
 
